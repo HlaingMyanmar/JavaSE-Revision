@@ -12,7 +12,7 @@ public class Ex_1 {
 
         String name = null;
 
-        while(result!=pass || !(name.equals("Hlaing"))){
+        while(result!=pass || !(name.equals("Hlaing"))){  //// indefinite Loop
 
              JOptionPane.showMessageDialog(null,"Try Again?");
 

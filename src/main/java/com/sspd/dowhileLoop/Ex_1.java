@@ -12,7 +12,7 @@ public class Ex_1 {
         String name ;
 
 
-        do {
+        do {  // indefinite Loop
 
             name = JOptionPane.showInputDialog("Insert Your Name?");
 
