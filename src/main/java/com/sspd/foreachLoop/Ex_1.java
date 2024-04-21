@@ -42,7 +42,13 @@ public class Ex_1 {
 
         }
 
-        while(numberList<numberList.size()){
+        int index = 0;
+
+        while(index<numberList.size()){
+
+            System.out.println(numberList.get(index));
+
+            index++;
 
         }
 
