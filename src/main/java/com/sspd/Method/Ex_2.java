@@ -10,6 +10,9 @@ public class Ex_2 {
 
         System.out.println(getSum(4.2,12.2));
         System.out.println(getSum("Hlaing","Htun"));
+        System.out.println(getConvertInt('A'));
+
+        System.out.println(getConvertChar(2));
 
     }
 
@@ -35,5 +38,21 @@ public class Ex_2 {
     static String getSum(String st1, String st2){
 
         return st1+st2;
+    }
+
+    static int getConvertInt(char ch){
+
+        int x = ch;
+
+        return x;
+    }
+
+    static char getConvertChar(int i){
+
+
+        char ch  =(char) i;
+
+        return ch;
+
     }
 }
