@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b16d1df-4df0-4ab6-bb52-372281b3719d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/ifstatement/Ex_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/ifstatement/Ex_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/ifstatement/Ex_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/ifstatement/Ex_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +30,12 @@
     &quot;assignee&quot;: &quot;HlaingMyanmar&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HlaingMyanmar/JavaSE-Revision.git",
-    "accountId": "5e243e0a-7f41-4cf2-bfa9-92f7899d8265"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HlaingMyanmar/JavaSE-Revision.git&quot;,
+    &quot;accountId&quot;: &quot;5e243e0a-7f41-4cf2-bfa9-92f7899d8265&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
