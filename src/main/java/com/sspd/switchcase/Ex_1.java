@@ -23,7 +23,7 @@ public class Ex_1 {
 
         }
 
-//        switch (result2){
+//        switch (result2){//
 //
 //            case 1 :JOptionPane.showMessageDialog(null,monthName[0]);break;
 //            case 2 :JOptionPane.showMessageDialog(null,monthName[1]);break;
