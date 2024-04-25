@@ -16,6 +16,10 @@ public class Ex_2_InnerClass {
 
         new Outer.Inner2().show(); // Invoke
 
+        Outer.Inner3 in3 = new Outer().new Inner3();
+
+        in3.show3();
+
 
     }
 }
@@ -38,5 +42,26 @@ class Outer {
             System.out.println("Inside a nested class2");
         }
 
+    }
+
+    class Inner3{
+
+
+        void show3(){
+
+            class Print{
+
+
+                void getPrint(){
+
+                    System.out.println("This is Method Local Inner Class");
+                }
+
+            }
+
+            Print p = new Print();
+            p.getPrint();
+
+        }
     }
 }
