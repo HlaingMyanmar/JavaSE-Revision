@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b16d1df-4df0-4ab6-bb52-372281b3719d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Hierarchical/Hierarchical-Inheritance-in-Java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_2_Multiple/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Hierarchical/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Hierarchical/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Inhertiance_1_Single/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Inhertiance_1_Single/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Inhertiance_1_Single/Hybrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Hybrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Inhertiance_1_Single/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/MountainBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/Inhertiance_1_Single/multilevel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Multilevel/multilevel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +59,12 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/Projects/Revision/src/main/java/com/sspd/Inhertiance_1_Hierarchical"
+    "last_opened_file_path": "F:/Projects/Revision/src/main/java/com/sspd/Inhertiance_2_Multiple"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\Revision\src\main\java\com\sspd\Inhertiance_2_Multiple" />
       <recent name="F:\Projects\Revision\src\main\java\com\sspd\Inhertiance_1_Hierarchical" />
       <recent name="F:\Projects\Revision\src\main\java\com\sspd\Inhertiance_1_Multilevel\Inhertiance_1_Single" />
       <recent name="F:\Projects\Revision\src\main\java\com\sspd\Inhertiance_1_Multilevel" />
@@ -230,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718869601059</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <option name="closed" value="true" />
+      <created>1718870154096</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718870154096</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
