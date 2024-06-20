@@ -1,4 +1,4 @@
-package com.sspd.Inhertiance;
+package com.sspd.Inhertiance_1_Single;
 
 public class MountainBike extends Bicycle {
 

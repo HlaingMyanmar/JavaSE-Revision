@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b16d1df-4df0-4ab6-bb52-372281b3719d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/MountainBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Single/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Single/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance_1_Single/MountainBike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714046931871</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <option name="closed" value="true" />
+      <created>1718868821059</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718868821059</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
