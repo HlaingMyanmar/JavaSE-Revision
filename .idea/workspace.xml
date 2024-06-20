@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b16d1df-4df0-4ab6-bb52-372281b3719d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/OOP_1/AnnomousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sspd/Inhertiance/MountainBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sspd/OOP_1/Ex_2_InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sspd/OOP_1/Ex_2_InnerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Computer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_InnerClass.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.App1.executor": "Run",
+    "Application.Computer.executor": "Run",
+    "Application.Ex_1.executor": "Run",
+    "Application.Ex_2.executor": "Run",
+    "Application.Ex_2_InnerClass.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JavaSE-Revision" />
@@ -186,5 +190,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Zulu/zulu-22/lib/src.zip!/java.base/java/lang/String.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
