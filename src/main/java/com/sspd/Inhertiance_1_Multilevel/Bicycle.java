@@ -1,4 +1,4 @@
-package com.sspd.Inhertiance_1_Multilevel.Inhertiance_1_Single;
+package com.sspd.Inhertiance_1_Multilevel;
 
 public class Bicycle {
 
