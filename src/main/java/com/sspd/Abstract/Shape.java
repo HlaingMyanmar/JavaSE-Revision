@@ -1,6 +1,5 @@
 package com.sspd.Abstract;
 
-import com.sun.tools.javac.Main;
 
 public  abstract class Shape {
 
